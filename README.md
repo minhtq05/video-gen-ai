@@ -1,2 +1,3 @@
-# Slides-To-Lecture
-From PPTX slides to lecture automatically.
+# Video-Generation-AI
+
+Generate video from scripts
